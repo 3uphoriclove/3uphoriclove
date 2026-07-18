@@ -24,3 +24,8 @@ Last Leaves of Autumn
 <a href="https://open.spotify.com/track/7DYjwMLWgZkQzojtg6eBZ2">
   <img src="https://img.shields.io/badge/Spotify-000000?style=for-the-badge&logo=spotify&logoColor=white" height="32" align="center">
 </a>
+
+</p>   
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/1268949049621479475/1528038373657153556/Screen_Shot_2026-07-18_at_16.57.43.png?ex=6a5cd821&is=6a5b86a1&hm=3368bc8ef9610fd2740fa941003d0bc855bbe5b6e61fc8417b0d75d3a592877f&=&format=webp&quality=lossless" alt="Image" width="450"/>
+</p>
