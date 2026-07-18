@@ -11,7 +11,7 @@ Lumine – Lili ?!
 
 </p>   
 <p align="center">
-  <img src="https://i.pinimg.com/736x/06/ea/55/06ea553a4a862b21172dd25120b8185a.jpg" alt="Image" width="500"/>
+  <img src="https://media.discordapp.net/attachments/1403628375654006917/1527014991746695209/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f484d3736327755576f41414b4839653f666f726d61743d706e67266e616d653d736d616c6c.png?ex=6a5c6ac8&is=6a5b1948&hm=9c3365bdfc02cb70b403a4c157cba1c67f88459f6566c3be13756274dac3c044&=&format=webp&quality=lossless" alt="Image" width="500"/>
 </p>
 
 
