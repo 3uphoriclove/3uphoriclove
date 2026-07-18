@@ -10,6 +10,9 @@ Lumine – Lili ?!
 </pre>
 
 </p>   
+<p align="center">
+  <img src="https://i.pinimg.com/736x/06/ea/55/06ea553a4a862b21172dd25120b8185a.jpg" alt="Image" width="500"/>
+</p>
 
 
 <a href="https://open.spotify.com/track/7DYjwMLWgZkQzojtg6eBZ2">
